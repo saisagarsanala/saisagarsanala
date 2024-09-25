@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sanala saisagar</h1>
-
-<h1 align="center">Hi 👋, I'm sanala saisagar</h1>
-<h3 align="center">A passionate java full stack developer from India</h3>
+<h1 align="center">Welcome To My Portfolio</h1>
+<h3 align="center">I am a passionate java full stack developer from India</h3>
 <img  align = "right" alt = "coding" width = "400" src="https://th.bing.com/th/id/OIG2.E6N0MiCowh_9Hxr2zHvQ?pid=ImgGn"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisagarsanala&label=Profile%20views&color=0e75b6&style=flat" alt="saisagarsanala" /> </p>

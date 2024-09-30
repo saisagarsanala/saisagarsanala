@@ -10,9 +10,6 @@
 - 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saisagarsanala](https://github.com/saisagarsanala)
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **sanalasaisagar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
